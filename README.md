@@ -16,12 +16,35 @@ Below is a complete list of my casino projects, all built on the **BetCraft** te
 
 All platforms are supported by **BetCraft**, which provides:
 
-- Smart contract–ready architecture  
-- Secure crypto & fiat payment processing  
-- Provably fair & blockchain-based systems  
-- Live casino & sportsbook integrations  
-- High-performance frontend & filtering  
-- Multi-language support (EN / RU / TR)  
-- Security, compliance, and continuous innovation  
+✅ **Smart contract–ready architecture**  
+🔐 **Secure crypto & fiat payment processing**  
+⚖️ **Provably fair & blockchain-based systems**  
+🎭 **Live casino & sportsbook integrations**  
+⚡ **High-performance frontend & filtering**  
+🌍 **Multi-language support (EN / RU / TR)**  
+🛡️ **Security, compliance, and continuous innovation**
 
-BetCraft serves as the **core technology engine** behind each casino, ensuring scalability, reliability, and premium user experience.
+---
+
+### 📜 **Licenses & Certifications**
+Our platforms operate under reputable licenses and partner with leading responsible gambling organizations:
+
+🏢 **Official Licenses:**
+- **[GPWA](https://www.gpwa.org/)** 🛡️ - Gaming Professionals Webmasters Association
+- **[Casino.Guru](https://casino.guru/)** ✅ - Independent casino review platform
+
+### 🧑‍🤝‍🧑 **Responsible Gambling Partnerships:**
+We actively promote safe gambling through trusted third-party organizations:
+
+🔗 **[Gamble Aware](https://www.begambleaware.org/)** – Promoting safer gambling  
+🧠 **[GamCare](https://www.gamcare.org.uk/)** – Support & practical help  
+💬 **[Gambling Therapy](https://www.gamblingtherapy.org/)** – Free counseling services  
+🚫 **[GamBan](https://gamban.com/)** – Self-exclusion software  
+🛑 **[BetBlocker](https://www.betblocker.org/)** – Free gambling blocking tool  
+⭐ **[Casino.Guru](https://casino.guru/responsible-gambling)** – Independent reviews & player protection
+
+---
+
+⚠️ **Age Restriction** – All casinos are strictly **18+ only**.
+
+BetCraft serves as the **core technology engine** behind each casino, ensuring **scalability, reliability, and premium user experience** while maintaining the highest standards of **player safety and regulatory compliance**.
